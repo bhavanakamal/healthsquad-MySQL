@@ -1,0 +1,24 @@
+"physician_id";"physician_First_name";"physician_Last_name";"speciality";"join_date";"years_of_experience";"HEALTHCARE_FACILITY_facility_id"
+1001001;"Jake";"Paul";"Dermatology";"2011-10-21 10:15:00";"10";2000100
+1001002;"Justin";"Levi";"Pediatrics";"2011-10-22 10:20:00";"10";2000101
+1001003;"Aaron";"Kale";"Family Medicine";"2019-10-22 10:20:00";"2";2000102
+1001004;"Jimmy";"Carter";"Neurology";"2018-10-22 10:20:00";"3";2000102
+1001005;"Danna";"Louis";"Obstetrics and Gynecology";"2020-10-22 10:20:00";"1";2000103
+1001006;"Tim";"Reegan";"Opthamology";"2012-10-22 10:20:00";"9";2000100
+1001007;"Bob";"Mendes";"Neurology";"2011-10-22 10:26:00";"10";2000101
+1001008;"Michael";"Scott";"Neurology";"2013-10-22 10:21:00";"8";2000105
+1001009;"Yuan";"Tan";"Psychiatry";"2013-10-27 10:20:00";"8";2000105
+1001010;"Shawn";"Pierce";"Internal Medicine";"2013-11-27 10:20:00";"8";2000106
+1001011;"Sia";"Brimhall";"Surgery";"2013-12-27 10:00:00";"8";2000106
+1001012;"Naomi";"Lewis";"Internal Medicine";"2014-11-27 10:20:00";"7";2000106
+1001013;"Pratik";"Gandhi";"Allergy and Immunology";"2018-11-27 10:20:00";"3";2000107
+1001014;"Jenny";"Kelly";"Diagnostic Radiology";"2013-10-27 11:20:00";"8";2000100
+1001015;"Ritika";"Kashyap";"Internal Medicine";"2014-10-17 10:20:00";"7";2000108
+1001016;"Zhang";"Wei";"Emergency Medicine";"2019-10-13 10:30:00";"2";2000111
+1001017;"Pamela";"Smith";"Internal Medicine";"2019-10-14 10:30:00";"2";2000101
+1001018;"Anita";"Garcia";"Allergy and Immunology";"2016-10-13 10:30:00";"5";2000112
+1001019;"Sarah";"Bowling";"Neurology";"2016-10-23 10:40:00";"5";2000112
+1001020;"George";"Peterson";"Obstetrics and Gynecology";"2017-10-13 10:40:00";"4";2000113
+1001021;"Henry";"Peter";"ENT";"2015-05-13 01:00:00";"15";2000115
+1001022;"Ken";"Sams";"ENT";"2015-05-13 02:00:00";"15";2000115
+1001056;"Ken";"Peterson";"ENT";"2015-05-28 03:00:00";"15";2000115
